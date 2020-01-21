@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/**
+ * @author Alvaro Tzul, Vuong Tran
+ */
+.chart-series-line {    
+    -fx-stroke-width: 1.5px;
+    -fx-effect: null;
+}
+ 
+.default-color0.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color1.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color2.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color3.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color4.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color5.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color6.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color7.chart-series-line { -fx-stroke: #dda0dd; }
+.default-color8.chart-series-line { -fx-stroke: #dda0dd; }
+
+ 
+.default-color0.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color1.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color2.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color3.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color4.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color5.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color6.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color7.chart-line-symbol { -fx-background-color: #dda0dd, white; }
+.default-color8.chart-line-symbol { -fx-background-color: #dda0dd, white; }
